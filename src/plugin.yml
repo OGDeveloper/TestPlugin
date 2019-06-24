@@ -1,0 +1,5 @@
+name: TestPlugin
+main: my.ogdeveloper.test.TestPlugin
+version: 0.1
+commands:
+  test:
